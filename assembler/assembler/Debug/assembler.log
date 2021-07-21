@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cherry\Desktop\大學\nand2tetris\assembler\assembler\Code.h(55): warning C4715: 'Code::comp': 不是所有控制路徑都傳回值
+  assembler.vcxproj -> C:\Users\cherry\Desktop\大學\nand2tetris\assembler\Debug\assembler.exe
